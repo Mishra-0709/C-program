@@ -1,5 +1,5 @@
 #include "stdio.h"
 int main()
 {
-printf("CAT BILEI SALA");
+printf("CAT BILEI");
 }
